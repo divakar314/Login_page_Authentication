@@ -1,0 +1,32 @@
+
+body{
+    background-color: rgb(50, 110, 110);
+}
+.container{
+   width: 20rem;
+   margin: 10rem auto;
+}
+input{
+    outline: none;
+}
+.form_container{
+    line-height: 3rem;
+    color: white;
+}
+.form_container input{
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    border: none;
+}
+.submit_btn{
+    margin-left: 5rem;
+    background-color: orange;
+    color: white;
+    padding: 0.5rem 0.8rem;
+    border: none;
+    border-radius: 0.3rem;
+}
+.submit_btn:hover{
+    background-color: rgb(95, 235, 153);
+    color: white;
+}
